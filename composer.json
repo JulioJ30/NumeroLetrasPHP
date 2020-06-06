@@ -1,0 +1,17 @@
+{
+    "name": "jja/numero-a-letras",
+    "description": "Convertir Numeros a letras PHP",
+    "authors": [
+        {
+            "name": "Julio Amoretti Almeyda",
+            "email": "julio302318@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "lic\\NumLetras\\": "src/"
+        }
+    }
+}
