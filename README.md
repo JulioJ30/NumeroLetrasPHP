@@ -1,10 +1,10 @@
-Numeros A Letras
+# Numeros A Letras
 
 Convierte un número a su valor correspondiente en letras.
 
-Instalación
+# Instalación
 
-1. Agrega jja/numero-a-letras a tu archivo composer.json.
+## 1. Agrega jja/numero-a-letras a tu archivo composer.json.
 
 {
     "require": {
@@ -12,7 +12,7 @@ Instalación
     }
 }
 
-2. USO
+## 2. USO
 
     require_once "vendor/autoload.php";
     $obj = new \lic\NumLetras\NumeroLetras();
